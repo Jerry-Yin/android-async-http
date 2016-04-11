@@ -1,5 +1,8 @@
 Asynchronous Http Client for Android
 ====================================
+
+使用介绍（官方）：https://loopj.com/android-async-http/
+
 [![Build Status](https://travis-ci.org/loopj/android-async-http.png?branch=master)](https://travis-ci.org/loopj/android-async-http)
 
 An asynchronous, callback-based Http client for Android built on top of Apache's [HttpClient](https://hc.apache.org/httpcomponents-client-ga/) libraries.
